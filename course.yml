@@ -1,5 +1,12 @@
 title: Introdução ao R
-description: Course description goes here.
+description: >-
+  Nesta introdução ao R, você irá dominar o básico desta linda linguagem de
+  código aberto, incluindo fatores, listas e estruturas de dados. Com o
+  conhecimento adquirido neste curso, você estará pronto para realizar sua
+  primeira análise de dados. Com mais de 2 milhões de usuários em todo o mundo,
+  a R está rapidamente se tornando a principal linguagem de programação em
+  estatística e ciência de dados. A cada ano, o número de usuários de R cresce
+  40% e um número crescente de organizações o utiliza em suas atividades
+  cotidianas. Aproveite o poder de R, completando este curso on-line R hoje!
 programming_language: r
-from: "r-base-prod:v1.0.2"
-#from: "tidyverse-base-prod:v1.0.2"
+from: 'r-base-prod:v1.0.2'
